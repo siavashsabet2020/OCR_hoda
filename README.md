@@ -24,7 +24,3 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install pandas numpy scikit-learn glob jupyter joblib
-```
-You can also download the Complete code using this command:
-```bash
-git clone https://github.com/kiarashkarimi/OCRhoda.git
